@@ -1,7 +1,8 @@
 ;rechts
 #AutoIt3Wrapper_usex64=Y
 ; #pragma compile(x64, true)
-
+;
+;
 
 $sOSArch = @OSArch
 ConsoleWrite("$sOSArch=" & $sOSArch & @CR)
